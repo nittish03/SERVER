@@ -3,6 +3,7 @@ const {
   registerController,
   loginController,
   logoutController,
+  getUserController
 } = require("../controllers/authController");
 
 //router object
